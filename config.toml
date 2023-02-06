@@ -1,6 +1,6 @@
 baseURL = "https://ecac01.github.io/"
 title = "Elizabethton Counseling & Arts Center"
-author = "Brandon M. Cole, LPC, MHSP"
+author = "Brandon Cole, M. Div., M.A, LPC/MHSP"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
@@ -51,22 +51,23 @@ hasCJKLanguage= false
 
 [menu]
 
-  [[menu.main]]
-    identifier = "products"
-    name = "Products"
-    url = "/products/"
-    weight = 1
-
-  [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
-    url = "/blog/"
-    weight = 2
 
   [[menu.main]]
     identifier = "about"
-    name = "About"
+    name = "About Us"
     url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "Meet Our Providers"
+    name = "Meet Our Providers"
+    url = "/providers/"
+    weight = 2
+
+    [[menu.main]]
+    identifier = "Services"
+    name = "Services"
+    url = "/services/"
     weight = 3
 
   [[menu.main]]
@@ -74,6 +75,30 @@ hasCJKLanguage= false
     name = "Contact"
     url = "/contact/"
     weight = 4
+
+    [[menu.main]]
+    identifier = "Insurance & Financial"
+    name = "Insurance & Financial"
+    url = "/financial/"
+    weight = 5
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = 6
+
+    [[menu.main]]
+    identifier = "Video"
+    name = "Video"
+    url = "https://youtube.com/@brandoncole7049"
+    weight = 7
+
+    [[menu.main]]
+    identifier = "Portal Access"
+    name = "Portal Access"
+    url = "https://www.therapyportal.com/p/strummerville"
+    weight = 8
 
   # Footer Menu
   [[menu.footer]]
