@@ -24,7 +24,7 @@ hasCJKLanguage= false
   googleFonts = true
 
   [params.logo]
-    main = "img/logo/tree.png"
+    main = "img/logo/logo.jpg"
     alt = "ECAC Logo"
 
     # The size parameter is the class name of tailwindcss
@@ -39,12 +39,12 @@ hasCJKLanguage= false
     fontawesome = true
 
   [params.homepage_meta_tags]
-    meta_description = "A Hugo Theme for OSSProject, Companies, Organization..."
-    meta_og_title = "Tella"
+    meta_description = "Elizabethton Counseling & Arts Center"
+    meta_og_title = "Elizabethton Counseling & Arts Center"
     meta_og_type = "website"
-    meta_og_url = "https://tella.pages.dev"
+    meta_og_url = "https://www.elizabethtoncac.com"
     meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png"
-    meta_og_description = "A Hugo Theme for OSSProject, Companies, Organization..."
+    meta_og_description = "Elizabethton Counseling & Arts Center"
     meta_twitter_card = "summary_large_image"
     meta_twitter_site = "@username"
     meta_twitter_creator = "@username"
