@@ -1,3 +1,3 @@
 +++
-author = "Hugo Authors"
+author = "Brandon Cole"
 +++

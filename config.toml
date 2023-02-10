@@ -76,7 +76,7 @@ hasCJKLanguage= false
     url = "/contact/"
     weight = 4
 
-    [[menu.main]]
+  [[menu.main]]
     identifier = "Insurance & Financial"
     name = "Insurance & Financial"
     url = "/financial/"
@@ -105,9 +105,3 @@ hasCJKLanguage= false
     name = "Home"
     url = "/"
       weight = 1
-
-  [[menu.footer]]
-    name = "Github"
-    url = "https://github.com/opera7133/tella"
-    pre = "<i class='icon-github text-2xl'></i>"
-      weight = 2
