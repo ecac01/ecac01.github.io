@@ -5,7 +5,8 @@ title: 'Contact'
 We have 2 locations to better serve you!  
 
 ### Elizabethton  
-As we have grown, it has created a need for bigger space! We are currently in the process of relocating our Elizabethton office and will be ready to see clients in-office this month!  
+104 A Broad St  
+Elizabethton, TN 37643
 
 ### Johnson City  
 409 E Unaka Ave  
