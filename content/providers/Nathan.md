@@ -9,7 +9,7 @@ description: LPC/MHSP Associate
 
 ![Nathan Gibson](/img/bio/Headshot.jpeg)
 
-Nathan Gibson, LPC?MHSP Asoociate  
+Nathan Gibson, LPC/MHSP Asoociate  
 Licensed Professional Counselor 
 Phone: 423-430-6397  
 E-Mail: [nathan@elizabethtoncac.com](nathan@elizabethtoncac.com)  
