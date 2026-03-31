@@ -7,7 +7,7 @@ weight: 6
 description: LPC/MHSP Associate
 ---
 
-![Josh Cole](/img/bio/Headshot.jpg)
+![Nathan Gibson](/img/bio/Headshot.jpg)
 
 Nathan Gibson, LPC/MHSP Associate
 Licensed Professional Counselor  
